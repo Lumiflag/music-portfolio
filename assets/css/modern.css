@@ -556,6 +556,12 @@ input[type="button"] {
 }
 .button.disabled, .button:disabled { opacity: 0.4; pointer-events: none; }
 
+.button.kofi {
+  background: #29abe0;
+  border-color: #29abe0 !important;
+  color: #fff !important;
+}
+
 /* box */
 .box {
   border: 1px solid var(--border);
